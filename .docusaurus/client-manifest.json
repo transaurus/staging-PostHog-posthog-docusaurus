@@ -1,0 +1,63 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "268": [
+      268
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "styles": [
+      354,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "268": {
+      "js": [
+        {
+          "file": "assets/js/268.04eb19de.js",
+          "hash": "4bcc7ce6094e628b",
+          "publicPath": "/assets/js/268.04eb19de.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.2ca082ec.js",
+          "hash": "c75b5a93d0b39287",
+          "publicPath": "/assets/js/runtime~main.2ca082ec.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.e180be12.js",
+          "hash": "b1f0abc0357bf8b0",
+          "publicPath": "/assets/js/main.e180be12.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.426f4b23.css",
+          "hash": "6ab5a2e731e25b73",
+          "publicPath": "/assets/css/styles.426f4b23.css"
+        }
+      ]
+    }
+  }
+}
