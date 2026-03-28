@@ -7,12 +7,13 @@ export default {
   "title": "PostHog Docusaurus Plugin",
   "tagline": "PostHog analytics plugin for Docusaurus",
   "url": "https://posthog.com",
-  "baseUrl": "/",
+  "baseUrl": "/zh-Hans/",
   "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "zh-Hans"
     ],
     "path": "i18n",
     "localeConfigs": {}

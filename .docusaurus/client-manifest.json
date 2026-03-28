@@ -28,25 +28,25 @@
         {
           "file": "assets/js/268.04eb19de.js",
           "hash": "4bcc7ce6094e628b",
-          "publicPath": "/assets/js/268.04eb19de.js"
+          "publicPath": "/zh-Hans/assets/js/268.04eb19de.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.2ca082ec.js",
-          "hash": "c75b5a93d0b39287",
-          "publicPath": "/assets/js/runtime~main.2ca082ec.js"
+          "file": "assets/js/runtime~main.1d8ab078.js",
+          "hash": "2db8a6d08ab7849c",
+          "publicPath": "/zh-Hans/assets/js/runtime~main.1d8ab078.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.e180be12.js",
-          "hash": "b1f0abc0357bf8b0",
-          "publicPath": "/assets/js/main.e180be12.js"
+          "file": "assets/js/main.8a1b0d8c.js",
+          "hash": "bac63af6a357e280",
+          "publicPath": "/zh-Hans/assets/js/main.8a1b0d8c.js"
         }
       ]
     },
@@ -55,7 +55,7 @@
         {
           "file": "assets/css/styles.426f4b23.css",
           "hash": "6ab5a2e731e25b73",
-          "publicPath": "/assets/css/styles.426f4b23.css"
+          "publicPath": "/zh-Hans/assets/css/styles.426f4b23.css"
         }
       ]
     }
